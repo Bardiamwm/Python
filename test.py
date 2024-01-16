@@ -11,4 +11,3 @@ class Family():
     
     def Arash(self):
         return "Arash Sehat | 02 Year old | From Ahvaz"
-        
