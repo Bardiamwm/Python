@@ -1,6 +1,5 @@
 def kir_info(a):
-    return f"""your kir is {a} cm
-    you are {kir_size(a)}"""
+    return f"your kir is {a} cm | you are {kir_size(a)}"
 
 def kir_size(kir):
     if kir < 8:
