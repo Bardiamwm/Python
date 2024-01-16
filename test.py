@@ -4,9 +4,9 @@ def kir_info(a):
 def kir_size(kir):
     if kir < 8:
         return "baby"
-    elif 8 < kir < 15:
+    elif 8 < kir < 13:
         return "teanager"
-    elif 15 < kir < 22:
+    elif 13 < kir < 22:
         return "Man"
     else:
         return "God"
